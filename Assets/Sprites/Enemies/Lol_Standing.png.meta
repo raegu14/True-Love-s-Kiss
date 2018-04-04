@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 2c67b0fa352b08241a3c7966c32d03ac
+timeCreated: 1493953332
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lol_Standing_0
+    21300002: Lol_Standing_1
+    21300004: Lol_Standing_2
+    21300006: Lol_Standing_3
+    21300008: Lol_Standing_4
+    21300010: Lol_Standing_5
+    21300012: Lol_Standing_6
+    21300014: Lol_Standing_7
+    21300016: Lol_Standing_8
+    21300018: Lol_Standing_9
+    21300020: Lol_Standing_10
+    21300022: Lol_Standing_11
+    21300024: Lol_Standing_12
+    21300026: Lol_Standing_13
+    21300028: Lol_Standing_14
+    21300030: Lol_Standing_15
+    21300032: Lol_Standing_16
+    21300034: Lol_Standing_17
+    21300036: Lol_Standing_18
+    21300038: Lol_Standing_19
+    21300040: Lol_Standing_20
+    21300042: Lol_Standing_21
+    21300044: Lol_Standing_22
+    21300046: Lol_Standing_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lol_Standing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3750
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_1
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 3750
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_2
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 3750
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_3
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 3750
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_5
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 3000
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_6
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 3000
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_7
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 3000
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_9
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2250
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_10
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 2250
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_11
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 2250
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_13
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1500
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_14
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1500
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_15
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 1500
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_17
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 750
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_18
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 750
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_19
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 750
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_21
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 0
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_22
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 0
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lol_Standing_23
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 0
+        width: 925
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

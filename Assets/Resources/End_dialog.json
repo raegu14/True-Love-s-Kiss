@@ -1,0 +1,12 @@
+[
+	{
+		"title": "End_Start",
+		"tags": "",
+		"body": "<<setsprite Right Carabosse neutral>><<setsprite Left Talia neutral>><<setname Right Carabosse>><<setname Left Talia>>R:No! How... could it be...?\nL:Face it, Carabosse, your days of ruining this kingdom are over!\nL: She'll wake up and everything will be happily ever after!\nR:Ohohohoho! Is that so?\nL: Funny thing about this curse is... By putting her to sleep for eternity... I really meant she would die after a few hours!\nR:In fact, we're probably within two minutes of her death now!\nR:Unless you see her true love anywhere around here, your princess' days--no, minutes--are numbered!\nL:No!\nR: Oh, yes!\n<<setsprite Right None lol>>L:No... Briar Rose... You can't die...\nL:You're my best friend... You can't just die like this!\nL:I care about you so much... like... a friend...\nL:Like a friend who is also girl....\nL:... A girlfriend...\nL: I...\nL: I love you...\nL: I love you!\n<<forceComplete DialogueRunner>><<setbg End>>\n\n\n",
+		"position": {
+			"x": 80,
+			"y": 80
+		},
+		"colorID": 0
+	}
+]

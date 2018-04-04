@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Heart_Start",
+		"tags": "",
+		"body": "<<setsprite Left Talia neutral>> <<setname Left Talia>>L:Oh, there's a potion! Nice.\n\n\n",
+		"position": {
+			"x": 80,
+			"y": 80
+		},
+		"colorID": 0
+	}
+]

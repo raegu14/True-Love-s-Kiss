@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Hurt_Start",
+		"tags": "",
+		"body": "<<setsprite Left Talia neutral>> <<setname Left Talia>>L:Guess I can only go down... This is gonna hurt.\n\n\n",
+		"position": {
+			"x": 80,
+			"y": 80
+		},
+		"colorID": 0
+	}
+]

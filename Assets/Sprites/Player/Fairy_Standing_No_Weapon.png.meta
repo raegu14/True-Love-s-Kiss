@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 45c9cf2ee1247854fa675646732c8430
+timeCreated: 1492047572
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fairy_Standing_No_Weapon_0
+    21300002: Fairy_Standing_No_Weapon_1
+    21300004: Fairy_Standing_No_Weapon_2
+    21300006: Fairy_Standing_No_Weapon_3
+    21300008: Fairy_Standing_No_Weapon_4
+    21300010: Fairy_Standing_No_Weapon_5
+    21300012: Fairy_Standing_No_Weapon_6
+    21300014: Fairy_Standing_No_Weapon_7
+    21300016: Fairy_Standing_No_Weapon_8
+    21300018: Fairy_Standing_No_Weapon_9
+    21300020: Fairy_Standing_No_Weapon_10
+    21300022: Fairy_Standing_No_Weapon_11
+    21300024: Fairy_Standing_No_Weapon_12
+    21300026: Fairy_Standing_No_Weapon_13
+    21300028: Fairy_Standing_No_Weapon_14
+    21300030: Fairy_Standing_No_Weapon_15
+    21300032: Fairy_Standing_No_Weapon_16
+    21300034: Fairy_Standing_No_Weapon_17
+    21300036: Fairy_Standing_No_Weapon_18
+    21300038: Fairy_Standing_No_Weapon_19
+    21300040: Fairy_Standing_No_Weapon_20
+    21300042: Fairy_Standing_No_Weapon_21
+    21300044: Fairy_Standing_No_Weapon_22
+    21300046: Fairy_Standing_No_Weapon_23
+    21300048: Fairy_Standing_No_Weapon_24
+    21300050: Fairy_Standing_No_Weapon_25
+    21300052: Fairy_Standing_No_Weapon_26
+    21300054: Fairy_Standing_No_Weapon_27
+    21300056: Fairy_Standing_No_Weapon_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7115
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_1
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 7115
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 7115
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_3
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 7115
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_4
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 7115
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5692
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_6
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 5692
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_7
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 5692
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_8
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 5692
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_9
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 5692
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4269
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_11
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4269
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_12
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 4269
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_13
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 4269
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_14
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 4269
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2846
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_16
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2846
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_17
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 2846
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_18
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 2846
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_19
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 2846
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1423
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1423
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_22
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1423
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_23
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 1423
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_24
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1423
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_26
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_27
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 0
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Standing_No_Weapon_28
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 0
+        width: 837
+        height: 1423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

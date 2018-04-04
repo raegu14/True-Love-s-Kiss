@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: da662f440872eaa43a8673199e94ccab
+timeCreated: 1493927663
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Carmencita
+  fontNames:
+  - Carmencita
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

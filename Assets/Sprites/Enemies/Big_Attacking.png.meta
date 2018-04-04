@@ -1,0 +1,798 @@
+fileFormatVersion: 2
+guid: 3223e80cdab58e141a72ccbf46ac5dc6
+timeCreated: 1493862530
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Big_Attacking_0
+    21300002: Big_Attacking_1
+    21300004: Big_Attacking_2
+    21300006: Big_Attacking_3
+    21300008: Big_Attacking_4
+    21300010: Big_Attacking_5
+    21300012: Big_Attacking_6
+    21300014: Big_Attacking_7
+    21300016: Big_Attacking_8
+    21300018: Big_Attacking_9
+    21300020: Big_Attacking_10
+    21300022: Big_Attacking_11
+    21300024: Big_Attacking_12
+    21300026: Big_Attacking_13
+    21300028: Big_Attacking_14
+    21300030: Big_Attacking_15
+    21300032: Big_Attacking_16
+    21300034: Big_Attacking_17
+    21300036: Big_Attacking_18
+    21300038: Big_Attacking_19
+    21300040: Big_Attacking_20
+    21300042: Big_Attacking_21
+    21300044: Big_Attacking_22
+    21300046: Big_Attacking_23
+    21300048: Big_Attacking_24
+    21300050: Big_Attacking_25
+    21300052: Big_Attacking_26
+    21300054: Big_Attacking_27
+    21300056: Big_Attacking_28
+    21300058: Big_Attacking_29
+    21300060: Big_Attacking_30
+    21300062: Big_Attacking_31
+    21300064: Big_Attacking_32
+    21300066: Big_Attacking_33
+    21300068: Big_Attacking_34
+    21300070: Big_Attacking_35
+    21300072: Big_Attacking_36
+    21300074: Big_Attacking_37
+    21300076: Big_Attacking_38
+    21300078: Big_Attacking_39
+    21300080: Big_Attacking_40
+    21300082: Big_Attacking_41
+    21300084: Big_Attacking_42
+    21300086: Big_Attacking_43
+    21300088: Big_Attacking_44
+    21300090: Big_Attacking_45
+    21300092: Big_Attacking_46
+    21300094: Big_Attacking_47
+    21300096: Big_Attacking_48
+    21300098: Big_Attacking_49
+    21300100: Big_Attacking_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big_Attacking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4326
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 4326
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_2
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 4326
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_3
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 4326
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_4
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 4326
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_5
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 4326
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_6
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 4326
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3708
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_8
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3708
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_9
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 3708
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_10
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 3708
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_11
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 3708
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_12
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 3708
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_13
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 3708
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3090
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_15
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3090
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_16
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 3090
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_17
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 3090
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_18
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 3090
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_19
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 3090
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_20
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 3090
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2472
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_22
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2472
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_23
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 2472
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_24
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 2472
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_25
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 2472
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_26
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 2472
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_27
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 2472
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1854
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_29
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1854
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_30
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1854
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_31
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1854
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_32
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1854
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_33
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1854
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_34
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 1854
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1236
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_36
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1236
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_37
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1236
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_38
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1236
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_39
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1236
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_40
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1236
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_41
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 1236
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_43
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 618
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_44
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 618
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_45
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 618
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_46
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 618
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_47
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 618
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_48
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 618
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Attacking_50
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 732
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

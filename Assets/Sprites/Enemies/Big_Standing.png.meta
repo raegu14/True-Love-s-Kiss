@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 37dac84f358c69b4298dbf19fe0d1565
+timeCreated: 1493612144
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Big_Standing_0
+    21300002: Big_Standing_1
+    21300004: Big_Standing_2
+    21300006: Big_Standing_3
+    21300008: Big_Standing_4
+    21300010: Big_Standing_5
+    21300012: Big_Standing_6
+    21300014: Big_Standing_7
+    21300016: Big_Standing_8
+    21300018: Big_Standing_9
+    21300020: Big_Standing_10
+    21300022: Big_Standing_11
+    21300024: Big_Standing_12
+    21300026: Big_Standing_13
+    21300028: Big_Standing_14
+    21300030: Big_Standing_15
+    21300032: Big_Standing_16
+    21300034: Big_Standing_17
+    21300036: Big_Standing_18
+    21300038: Big_Standing_19
+    21300040: Big_Standing_20
+    21300042: Big_Standing_21
+    21300044: Big_Standing_22
+    21300046: Big_Standing_23
+    21300048: Big_Standing_24
+    21300050: Big_Standing_25
+    21300052: Big_Standing_26
+    21300054: Big_Standing_27
+    21300056: Big_Standing_28
+    21300058: Big_Standing_29
+    21300060: Big_Standing_30
+    21300062: Big_Standing_31
+    21300064: Big_Standing_32
+    21300066: Big_Standing_33
+    21300068: Big_Standing_34
+    21300070: Big_Standing_35
+    21300072: Big_Standing_36
+    21300074: Big_Standing_37
+    21300076: Big_Standing_38
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big_Standing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1506
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1506
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1506
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_4
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1506
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_5
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1506
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1255
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1255
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1255
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_10
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1255
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_11
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1255
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1004
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1004
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1004
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_15
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1004
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_16
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1004
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_17
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1004
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 753
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 753
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_20
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 753
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_21
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 753
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_22
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 753
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_23
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 753
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 502
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_26
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 502
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 502
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_28
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 502
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_29
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 502
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_31
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 251
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_32
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 251
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_33
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 251
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_34
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 251
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_35
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 251
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big_Standing_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 252.5
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

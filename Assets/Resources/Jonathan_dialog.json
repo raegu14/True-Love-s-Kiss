@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Jonathan_Start",
+		"tags": "",
+		"body": "<<setsprite Left Talia neutral>> <<setname Left Talia>> <<setsprite Right Jonathan neutral>> <<setname Right Jonathan>>R:Take my sword!\nL:What?\nR:Just take it.\nL:I guess I have a sword now...<<getsword Player>><<activate INSTRUCTIONS>>\n\n\n",
+		"position": {
+			"x": 80,
+			"y": 80
+		},
+		"colorID": 0
+	}
+]

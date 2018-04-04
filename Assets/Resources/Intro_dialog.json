@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Intro_Start",
+		"tags": "",
+		"body": "<<setsprite Left Talia neutral>> <<setsprite Right Carabosse neutral>> <<setname Left Talia>> <<setname Right Carabosse>>R:Ohohohoho! Your princess is done for! The prophecy has come true!\nR:On her eighteenth birthday, the princess shall prick her finger on a cursed spinning wheel and sleep for all eternity!\nAnd it has come true, thanks to the skills of I, the evil fairy Carabosse! Ohohohohoho!\nL:Princess Briar Rose... Asleep for all eternity...?\nL:Not on my watch!\nL:I'll find her true love! And bring him to her! And make him kiss her! And she'll wake up!\nR: Ha! Don't make me laugh! You know as well as I that the Princess hasn't dated.\nR:But, just in case, I might as well kill all the princes in the kingdom. You know, to stop you from succeeding.\nL:I'll save all of the princes too!\n\n\n",
+		"position": {
+			"x": 80,
+			"y": 80
+		},
+		"colorID": 0
+	}
+]

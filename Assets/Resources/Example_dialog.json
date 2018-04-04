@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Example_Start",
+		"tags": "",
+		"body": "<<setsprite Right Example neutral>> <<setname Right Example>> <<setsprite Left Talia neutral>> <<setname Left Talia>>R: Hey.\n[[Leave|Leave]]\n[[Got anything more to say?|LearnMore]]",
+		"position": {
+			"x": 592,
+			"y": 181
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Leave",
+		"tags": "",
+		"body": "R: See ya.",
+		"position": {
+			"x": 387,
+			"y": 487
+		},
+		"colorID": 0
+	},
+	{
+		"title": "LearnMore",
+		"tags": "",
+		"body": "R: This is just a sample. I've got nothing.",
+		"position": {
+			"x": 763,
+			"y": 472
+		},
+		"colorID": 0
+	}
+]

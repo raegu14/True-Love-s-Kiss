@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 32d2330f847d36642994b14c2efb644b
+timeCreated: 1492135790
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fairy_Air_Gliding_Staff_0
+    21300002: Fairy_Air_Gliding_Staff_1
+    21300004: Fairy_Air_Gliding_Staff_2
+    21300006: Fairy_Air_Gliding_Staff_3
+    21300008: Fairy_Air_Gliding_Staff_4
+    21300010: Fairy_Air_Gliding_Staff_5
+    21300012: Fairy_Air_Gliding_Staff_6
+    21300014: Fairy_Air_Gliding_Staff_7
+    21300016: Fairy_Air_Gliding_Staff_8
+    21300018: Fairy_Air_Gliding_Staff_9
+    21300020: Fairy_Air_Gliding_Staff_10
+    21300022: Fairy_Air_Gliding_Staff_11
+    21300024: Fairy_Air_Gliding_Staff_12
+    21300026: Fairy_Air_Gliding_Staff_13
+    21300028: Fairy_Air_Gliding_Staff_14
+    21300030: Fairy_Air_Gliding_Staff_15
+    21300032: Fairy_Air_Gliding_Staff_16
+    21300034: Fairy_Air_Gliding_Staff_17
+    21300036: Fairy_Air_Gliding_Staff_18
+    21300038: Fairy_Air_Gliding_Staff_19
+    21300040: Fairy_Air_Gliding_Staff_20
+    21300042: Fairy_Air_Gliding_Staff_21
+    21300044: Fairy_Air_Gliding_Staff_22
+    21300046: Fairy_Air_Gliding_Staff_23
+    21300048: Fairy_Air_Gliding_Staff_24
+    21300050: Fairy_Air_Gliding_Staff_25
+    21300052: Fairy_Air_Gliding_Staff_26
+    21300054: Fairy_Air_Gliding_Staff_27
+    21300056: Fairy_Air_Gliding_Staff_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6255
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_1
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 6255
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_2
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 6255
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_3
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 6255
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_4
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 6255
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5004
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_6
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 5004
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_7
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 5004
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_8
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 5004
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_9
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 5004
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3753
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_11
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 3753
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_12
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 3753
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_13
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 3753
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_14
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 3753
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2502
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_16
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2502
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_17
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2502
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_18
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 2502
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_19
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 2502
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1251
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_21
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1251
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_22
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1251
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_23
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 1251
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_24
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 1251
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_26
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 0
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_27
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 0
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fairy_Air_Gliding_Staff_28
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 0
+        width: 1132
+        height: 1251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

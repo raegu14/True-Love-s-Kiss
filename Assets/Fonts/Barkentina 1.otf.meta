@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 212e2be880afb8248aa7dc024b9da9ee
+timeCreated: 1493935481
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Barkentina Test
+  fontNames:
+  - Barkentina Test
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

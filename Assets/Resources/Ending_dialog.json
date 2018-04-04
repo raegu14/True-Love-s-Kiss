@@ -1,0 +1,342 @@
+[
+	{
+		"title": "Ending_Start",
+		"tags": "",
+		"body": "<<setsprite Right Carabosse neutral>><<setsprite Left Talia neutral>><<setname Right Carabosse>><<setname Left Talia>>No! How... could it be...?\n[[Next|2]]\n\n\n",
+		"position": {
+			"x": 80,
+			"y": 80
+		},
+		"colorID": 0
+	},
+	{
+		"title": "2",
+		"tags": "",
+		"body": " Face it, Carabosse, your days of ruining this kingdom are over!\n[[Next|3]]\n\n\n",
+		"position": {
+			"x": 160,
+			"y": 160
+		},
+		"colorID": 0
+	},
+	{
+		"title": "3",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Now, all I have to do is bring one of the princes here and have them kiss Briar Rose.\n[[Next|4]]\n\n\n",
+		"position": {
+			"x": 240,
+			"y": 240
+		},
+		"colorID": 0
+	},
+	{
+		"title": "4",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Then, she'll wake up and everything will be happily ever after!\n[[Next|5]]\n\n\n",
+		"position": {
+			"x": 320,
+			"y": 320
+		},
+		"colorID": 0
+	},
+	{
+		"title": "5",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Ohohohoho! Is that so?\n[[Next|6]]\n\n\n",
+		"position": {
+			"x": 400,
+			"y": 400
+		},
+		"colorID": 0
+	},
+	{
+		"title": "6",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Funny thing about this curse is... By putting her to sleep for eternity... I really meant she would die after a few hours!\n[[Next|7]]\n\n\n",
+		"position": {
+			"x": 480,
+			"y": 480
+		},
+		"colorID": 0
+	},
+	{
+		"title": "7",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> In fact, we're probably within two minutes of her death now!\n[[Next|8]]\n\n\n",
+		"position": {
+			"x": 560,
+			"y": 560
+		},
+		"colorID": 0
+	},
+	{
+		"title": "8",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> And your precious princes are nowhere to be seen! Ohohohoho! The prophecy will come true after all!\n[[Next|9]]\n\n\n",
+		"position": {
+			"x": 640,
+			"y": 640
+		},
+		"colorID": 0
+	},
+	{
+		"title": "11",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Unless you see her true love anywhere around here, your princess' days--no, minutes--are numbered!\n[[Next|12]]\n\n\n",
+		"position": {
+			"x": 720,
+			"y": 720
+		},
+		"colorID": 0
+	},
+	{
+		"title": "9",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> No!\n[[Next|10]]\n\n\n",
+		"position": {
+			"x": 800,
+			"y": 800
+		},
+		"colorID": 0
+	},
+	{
+		"title": "10",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Oh, yes!\n[[Next|11]]\n\n\n",
+		"position": {
+			"x": 880,
+			"y": 880
+		},
+		"colorID": 0
+	},
+	{
+		"title": "12",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> No... Briar Rose... You can't die...\n[[Next|13]]\n\n\n",
+		"position": {
+			"x": 960,
+			"y": 960
+		},
+		"colorID": 0
+	},
+	{
+		"title": "15",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Like... Like a friend who is also a girl...\n[[Next|16]]\n\n\n",
+		"position": {
+			"x": 1040,
+			"y": 1040
+		},
+		"colorID": 0
+	},
+	{
+		"title": "13",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> You're my best friend... You can't just die like this...\n[[Next|14]]\n\n\n\n",
+		"position": {
+			"x": 1120,
+			"y": 1120
+		},
+		"colorID": 0
+	},
+	{
+		"title": "14",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> I care about you so much... Like.. a friend...\n[[Next|15]]\n\n\n",
+		"position": {
+			"x": 1200,
+			"y": 1200
+		},
+		"colorID": 0
+	},
+	{
+		"title": "16",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> ... A girlfriend...\n[[Next|17]]\n\n\n",
+		"position": {
+			"x": 1280,
+			"y": 1280
+		},
+		"colorID": 0
+	},
+	{
+		"title": "19",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> I... I love you...\n[[Next|20]]\n\n\n",
+		"position": {
+			"x": 1360,
+			"y": 1360
+		},
+		"colorID": 0
+	},
+	{
+		"title": "20",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> I love you!\n[[Next|21]]\n\n\n",
+		"position": {
+			"x": 1440,
+			"y": 1440
+		},
+		"colorID": 0
+	},
+	{
+		"title": "17",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> ... A girlfriend?\n[[Next|18]]\n\n\n",
+		"position": {
+			"x": 1520,
+			"y": 1520
+		},
+		"colorID": 0
+	},
+	{
+		"title": "18",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> I... That's right. I do care about you.\n[[Next|19]]\n\n\n",
+		"position": {
+			"x": 1600,
+			"y": 1600
+		},
+		"colorID": 0
+	},
+	{
+		"title": "21",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Wh-what are you doing?\n[[Next|23]]\n\n\n",
+		"position": {
+			"x": 1680,
+			"y": 1680
+		},
+		"colorID": 0
+	},
+	{
+		"title": "23",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Briar Rose neutral>> Huh... Where am I...?\n[[Next|24]]\n\n\n",
+		"position": {
+			"x": 1760,
+			"y": 1760
+		},
+		"colorID": 0
+	},
+	{
+		"title": "24",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Briar Rose neutral>> ...Talia...?\n[[Next|25]]\n\n\n",
+		"position": {
+			"x": 1840,
+			"y": 1840
+		},
+		"colorID": 0
+	},
+	{
+		"title": "25",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Briar Rose... I love you...\n[[Next|26]]\n\n\n",
+		"position": {
+			"x": 1920,
+			"y": 1920
+		},
+		"colorID": 0
+	},
+	{
+		"title": "26",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Briar Rose neutral>> I love you too. I always have.\n[[Next|22]]\n\n\n",
+		"position": {
+			"x": 2000,
+			"y": 2000
+		},
+		"colorID": 0
+	},
+	{
+		"title": "22",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> You can't just reawaken the princess like that! That's not fair!\n[[Next|27]]\n\n\n",
+		"position": {
+			"x": 2080,
+			"y": 2080
+		},
+		"colorID": 0
+	},
+	{
+		"title": "27",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Face it Carabosse, you lost.\n[[Next|28]]\n\n\n",
+		"position": {
+			"x": 2160,
+			"y": 2160
+		},
+		"colorID": 0
+	},
+	{
+		"title": "28",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Now begone!\n[[Next|29]]\n\n\n",
+		"position": {
+			"x": 2240,
+			"y": 2240
+		},
+		"colorID": 0
+	},
+	{
+		"title": "29",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Arghhhh... This isn't the last you've seen of me...\n[[Next|30]]\n\n\n",
+		"position": {
+			"x": 2320,
+			"y": 2320
+		},
+		"colorID": 0
+	},
+	{
+		"title": "30",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Briar Rose neutral>> Thank you, Talia. For breaking the curse. How could I ever repay you?\n[[Next|31]]\n\n\n",
+		"position": {
+			"x": 2400,
+			"y": 2400
+		},
+		"colorID": 0
+	},
+	{
+		"title": "31",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> Well, unlimited riches would be nice...\n[[Next|32]]\n\n\n",
+		"position": {
+			"x": 2480,
+			"y": 2480
+		},
+		"colorID": 0
+	},
+	{
+		"title": "32",
+		"tags": "",
+		"body": "<<setsprite Left neutral>> But all I really need is for you to love me!\n[[Next|33]]\n\n\n",
+		"position": {
+			"x": 2560,
+			"y": 2560
+		},
+		"colorID": 0
+	},
+	{
+		"title": "33",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Briar Rose neutral>> Well, that's easy. I already do!\n[[Next|34]]\n\n\n",
+		"position": {
+			"x": 2640,
+			"y": 2640
+		},
+		"colorID": 0
+	},
+	{
+		"title": "34",
+		"tags": "",
+		"body": "~And so, the princess and the fairy lived happily ever after~\n\n\n",
+		"position": {
+			"x": 2720,
+			"y": 2720
+		},
+		"colorID": 0
+	}
+]

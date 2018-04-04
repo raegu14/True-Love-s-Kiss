@@ -1,0 +1,62 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> Carabosse! Stop terrorizing the kingdom this instant!\n[[Next|1]]\n\n\n",
+		"position": {
+			"x": 80,
+			"y": 80
+		},
+		"colorID": 0
+	},
+	{
+		"title": "1",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Carabosse neutral right>> Or what, little fairy? Don't you see? Your princess is doomed and your kingdom is doomed!\n[[Next|2]]\n\n\n",
+		"position": {
+			"x": 160,
+			"y": 160
+		},
+		"colorID": 0
+	},
+	{
+		"title": "2",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> Not on my watch! I'll stop you!\n[[Next|3]]\n\n\n",
+		"position": {
+			"x": 240,
+			"y": 240
+		},
+		"colorID": 0
+	},
+	{
+		"title": "4",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Carabosse neutral right>> I dare you to even try to take me on!\n[[Next|5]]\n\n\n",
+		"position": {
+			"x": 320,
+			"y": 320
+		},
+		"colorID": 0
+	},
+	{
+		"title": "3",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Carabosse neutral right>> Ohohoho! Well, this should be entertaining!\n[[Next|4]]\n\n\n",
+		"position": {
+			"x": 400,
+			"y": 400
+		},
+		"colorID": 0
+	},
+	{
+		"title": "5",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> (Princess...  I'll defeat Carabosse and save you!)\n\n\n",
+		"position": {
+			"x": 480,
+			"y": 480
+		},
+		"colorID": 0
+	}
+]

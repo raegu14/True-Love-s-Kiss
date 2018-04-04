@@ -1,0 +1,172 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> Whoa, those guys are big!\n[[Next|1]]\n\n\n",
+		"position": {
+			"x": 80,
+			"y": 80
+		},
+		"colorID": 0
+	},
+	{
+		"title": "1",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> I can't possibly beat them like this... What should I do?\n[[Next|2]]\n\n\n",
+		"position": {
+			"x": 160,
+			"y": 160
+		},
+		"colorID": 0
+	},
+	{
+		"title": "2",
+		"tags": "",
+		"body": "???: Help! Help!\n[[Next|3]]\n\n\n",
+		"position": {
+			"x": 240,
+			"y": 240
+		},
+		"colorID": 0
+	},
+	{
+		"title": "3",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> Is that... Prince <<setsprite DialgoueRunner Richard neutral right>>? Third in line to the Fairy Throne?\n[[Next|4]]\n\n\n",
+		"position": {
+			"x": 320,
+			"y": 320
+		},
+		"colorID": 0
+	},
+	{
+		"title": "4",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Richard neutral right>>: Help! These guys just started attacking me!\n[[Next|5]]\n\n\n",
+		"position": {
+			"x": 400,
+			"y": 400
+		},
+		"colorID": 0
+	},
+	{
+		"title": "5",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> Must be Carabosse's doing... But I don't have any way to help him!\n[[Next|6]]\n\n\n",
+		"position": {
+			"x": 480,
+			"y": 480
+		},
+		"colorID": 0
+	},
+	{
+		"title": "6",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Richard neutral right>>: If only I knew how to use this staff! What a useless family heirloom for me to have at this moment.\n[[Next|7]]\n\n\n",
+		"position": {
+			"x": 560,
+			"y": 560
+		},
+		"colorID": 0
+	},
+	{
+		"title": "7",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> A staff! I could probably figure out how to use that!\n[[Next|8]]\n\n\n",
+		"position": {
+			"x": 640,
+			"y": 640
+		},
+		"colorID": 0
+	},
+	{
+		"title": "8",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> Excuse me, Your Majesty! I can use a staff!\n[[Next|9]]\n\n\n",
+		"position": {
+			"x": 720,
+			"y": 720
+		},
+		"colorID": 0
+	},
+	{
+		"title": "9",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Richard neutral right>>: Take it! Just save me from these monsters!\n[[Next|10]]\n\n\n",
+		"position": {
+			"x": 800,
+			"y": 800
+		},
+		"colorID": 0
+	},
+	{
+		"title": "10",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> One condition!\n[[Next|11]]\n\n\n",
+		"position": {
+			"x": 880,
+			"y": 880
+		},
+		"colorID": 0
+	},
+	{
+		"title": "11",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Richard neutral right>>: I'll do anything!\n[[Next|12]]\n\n\n",
+		"position": {
+			"x": 960,
+			"y": 960
+		},
+		"colorID": 0
+	},
+	{
+		"title": "12",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> Can I set you up on a date?\n[[Next|13]]\n\n\n",
+		"position": {
+			"x": 1040,
+			"y": 1040
+		},
+		"colorID": 0
+	},
+	{
+		"title": "13",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Richard neutral right>>: Whoa there! I mean, you're cute and all but you're not really my type...\n[[Next|14]]\n\n\n\n\n",
+		"position": {
+			"x": 1120,
+			"y": 1120
+		},
+		"colorID": 0
+	},
+	{
+		"title": "14",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> Not me! My best friend. It's a long story, just say yes and save all of our lives!\n[[Next|15]]\n\n\n",
+		"position": {
+			"x": 1200,
+			"y": 1200
+		},
+		"colorID": 0
+	},
+	{
+		"title": "15",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Richard neutral right>>: Okay fine, I'll go on this date! Now take this staff and protect me!\n[[Next|16]]\n\n\n",
+		"position": {
+			"x": 1280,
+			"y": 1280
+		},
+		"colorID": 0
+	},
+	{
+		"title": "16",
+		"tags": "",
+		"body": "<<setsprite DialgoueRunner Talia neutral left>> (Wow, this prince is kind of a weenie.. But that's not important right now! Here goes!)\n\n\n",
+		"position": {
+			"x": 1360,
+			"y": 1360
+		},
+		"colorID": 0
+	}
+]
